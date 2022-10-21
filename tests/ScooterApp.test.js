@@ -4,14 +4,6 @@ const ScooterApp = require('../src/ScooterApp')
 
 // ScooterApp tests here
 
-// register user
-
-// log in
-
-// add scooter
-
-// remove scooter
-
 describe('ScooterApp methods', () => {
 
     const user1 = new User('mary', 'pass1', 19)
